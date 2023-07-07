@@ -4,13 +4,21 @@
 另外，這個頁面屬非公開；只有通過連結能進來，不用擔心被外流.
 
 
-→ [照片-按照人臉分類](./vteMathC_vF.pdf) ←
+→ [照片-按照人臉分類](https://drive.google.com/drive/folders/1q1HCRMyLsaxPx2Gzas3eCR4MVZcSGBnW?usp=drive_link) ←
 
-→ [照片-按照日期分類](./vteMathC_vF.pdf) ←
+→ [照片-按照日期分類](https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link) ←
 
-→ [學校畢冊 gA-完稿檔案](./vteMathC_vF.pdf) ←
 
-→ [黑暗相冊 jR-完稿檔案](./vteMathC_vF.pdf) ←
+ <!--
+新連結 https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link
+舊連結 https://drive.google.com/drive/folders/1Qa9omcwhci570oGlVlq0mdoMZnMRJDXO?usp=drive_link
+--> 
+
+→ [學校畢冊 gA-完稿檔案](https://drive.google.com/drive/folders/1uMVmP41G1Jt9oq0z4ekrghbp2nAdu6qG?usp=drive_link) ←
+
+→ [學校畢冊 gA-stock](https://drive.google.com/drive/folders/1_9XgnGsjEV0yCaFCguDosEX-FBEaHAaU?usp=drive_link) ←
+
+→ [黑暗相冊 jR-完稿檔案](https://drive.google.com/drive/folders/16VC26ws1dY3WTavHDCD5TNS37FAx5Lbx?usp=drive_link) ←
 
 以下附出個資料夾大小，以防各位硬碟爆掉.
 
