@@ -8,6 +8,7 @@
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link) ←
 
+--以上檔案正在上傳，請耐心等候--
 
  <!--
 新連結 https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link
