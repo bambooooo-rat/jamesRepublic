@@ -3,19 +3,14 @@
 
 另外，這個頁面屬非公開；只有通過連結能進來，不用擔心被外流.
 
-# 照片
 
-→ [按照人臉分類](./vteMathC_vF.pdf) ←
+→ [照片-按照人臉分類](./vteMathC_vF.pdf) ←
 
-→ [按照日期分類](./vteMathC_vF.pdf) ←
-
-# 畢冊檔案
+→ [照片-按照日期分類](./vteMathC_vF.pdf) ←
 
 → [學校畢冊 gA](./vteMathC_vF.pdf) ←
 
 → [黑暗相冊 jR](./vteMathC_vF.pdf) ←
-
-# 附錄
 
 以下附出個資料夾大小，以防各位硬碟爆掉.
 
