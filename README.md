@@ -5,7 +5,7 @@
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link) ←
 
---以上檔案正在上傳，請耐心等候--
+--以上檔案可能在未來從雲端下架，若有需要請下載--
 
  <!--
 新連結 https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link
