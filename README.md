@@ -18,7 +18,7 @@
 
 → [黑暗相冊 jR-完稿檔案](https://drive.google.com/drive/folders/16VC26ws1dY3WTavHDCD5TNS37FAx5Lbx?usp=drive_link) ←
 
-以下附出個資料夾大小，以防各位硬碟爆掉.
+以下附出各資料夾大小，以防各位硬碟爆掉.
 
 ## 照片-按人分類
 
