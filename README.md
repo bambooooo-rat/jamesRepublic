@@ -5,11 +5,16 @@
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link) ←
 
---以上檔案可能在未來從雲端下架，若有需要請下載--
+--以上兩個連結待下面連結上傳完畢之後會從雲端下架--
+
+→ [照片-按照人臉分類](https://drive.google.com/drive/folders/106ywhTp9wty9s7t-098rLxnMNMnd48zi?usp=sharing) ←
+
+→ [照片-按照日期分類](https://drive.google.com/drive/folders/12XxmWB9nm9urhnRTLu4Tz-BSsculPY_g?usp=sharing) ←
+
+--以上兩個連結有完整檔案，但正在上傳--
 
  <!--
-新連結 https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link
-舊連結 https://drive.google.com/drive/folders/1Qa9omcwhci570oGlVlq0mdoMZnMRJDXO?usp=drive_link
+23.07.25 開始上傳
 --> 
 
 → [學校畢冊 gA-完稿檔案](https://drive.google.com/drive/folders/1uMVmP41G1Jt9oq0z4ekrghbp2nAdu6qG?usp=drive_link) ←
