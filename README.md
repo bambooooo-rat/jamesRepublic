@@ -3,13 +3,16 @@
 
 
 
+
+
+--連結檔案同步中，過幾天再來看看吧~--
+
+ <!--
+
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/106ywhTp9wty9s7t-098rLxnMNMnd48zi?usp=sharing) ←
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/12XxmWB9nm9urhnRTLu4Tz-BSsculPY_g?usp=sharing) ←
-
---以上兩個連結有完整檔案，已上傳完畢--
-
- <!--
+ 
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/1q1HCRMyLsaxPx2Gzas3eCR4MVZcSGBnW?usp=drive_link) ←
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link) ←
