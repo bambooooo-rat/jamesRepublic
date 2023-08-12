@@ -1,17 +1,13 @@
 # Hi
 以防Line檔案過期，我把檔案放在github上的雲端連結以方便各位下載.
 
+→ [照片-按照人臉分類](https://drive.google.com/drive/folders/106ywhTp9wty9s7t-098rLxnMNMnd48zi?usp=sharing) ←
 
-
-
+→ [照片-按照日期分類](https://drive.google.com/drive/folders/12XxmWB9nm9urhnRTLu4Tz-BSsculPY_g?usp=sharing) ←
 
 --連結檔案同步中，過幾天再來看看吧~--
 
  <!--
-
-→ [照片-按照人臉分類](https://drive.google.com/drive/folders/106ywhTp9wty9s7t-098rLxnMNMnd48zi?usp=sharing) ←
-
-→ [照片-按照日期分類](https://drive.google.com/drive/folders/12XxmWB9nm9urhnRTLu4Tz-BSsculPY_g?usp=sharing) ←
  
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/1q1HCRMyLsaxPx2Gzas3eCR4MVZcSGBnW?usp=drive_link) ←
 
