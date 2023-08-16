@@ -5,9 +5,9 @@
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/12XxmWB9nm9urhnRTLu4Tz-BSsculPY_g?usp=sharing) ←
 
-→ [臨時補救連結](https://youtu.be/dQw4w9WgXcQ) ←
-
 --由於我之前手賤把檔案刪了，現在已經從硬碟裡修復回來，正在上傳雲端，請耐心等候--
+
+→ [照片臨時補救連結](https://youtu.be/dQw4w9WgXcQ) ←
 
  <!--
  
