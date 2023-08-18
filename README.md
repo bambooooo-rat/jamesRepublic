@@ -1,11 +1,11 @@
 # Hi
 以防Line檔案過期，我把檔案放在github上的雲端連結以方便各位下載.
 
-→ [照片-按照人臉分類](https://drive.google.com/drive/folders/106ywhTp9wty9s7t-098rLxnMNMnd48zi?usp=sharing) ←
+→ [照片-按照人臉分類](https://drive.google.com/drive/folders/1JQt8shxhUvv7gFkT471hOsf4brtfbl1F?usp=sharing) ←
 
-→ [照片-按照日期分類](https://drive.google.com/drive/folders/12XxmWB9nm9urhnRTLu4Tz-BSsculPY_g?usp=sharing) ←
+→ [照片-按照日期分類](https://drive.google.com/drive/folders/1-5ZMewiJz3PP1cnKfKzQonTDum0WmNj_?usp=sharing) ←
 
---由於我之前手賤把檔案刪了，現在已經從硬碟裡修復回來，正在上傳雲端，請耐心等候--
+--為防止各位的帥照外流，請使用學生帳號登入--
 
 → [照片臨時補救連結](https://youtu.be/dQw4w9WgXcQ) ←
 
