@@ -5,11 +5,10 @@
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1-5ZMewiJz3PP1cnKfKzQonTDum0WmNj_?usp=sharing) ←
 
---為防止各位的帥照外流，請使用學生帳號登入--
-
-
  <!--
  
+--為防止各位的帥照外流，請使用學生帳號登入--
+
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/1q1HCRMyLsaxPx2Gzas3eCR4MVZcSGBnW?usp=drive_link) ←
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1u_gLlqncNm_VEh8M33JgDCUbNciAtMXv?usp=drive_link) ←
