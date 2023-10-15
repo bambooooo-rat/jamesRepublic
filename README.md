@@ -1,6 +1,8 @@
 # Hi
 以防Line檔案過期，我把檔案放在github上的雲端連結以方便各位下載.
+
 另外，由於我暑假的時候手幹把檔案全刪光了，從硬碟救回來之後，有多出一些檔名後綴是「_1」的檔案，通常有部分損毀，如果要用這張照片的話，請找到他對應的原始檔案。
+
 例如，如果你同時看到檔名為「IMG_0001.jpg」以及「IMG_0001_1.jpg」，那麼「IMG_0001_1.jpg」即是有損毀的檔案，請使用「IMG_0001.jpg」。
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/1JQt8shxhUvv7gFkT471hOsf4brtfbl1F?usp=sharing) ←
 
