@@ -5,6 +5,8 @@
 
 例如，如果你同時看到檔名為「IMG_0001.jpg」以及「IMG_0001_1.jpg」，那麼「IMG_0001_1.jpg」即是有損毀的檔案，請使用「IMG_0001.jpg」。
 
+最後，各資料夾會不定期更新，來源通常是手機拍的照片，或者我另外做的圖。
+
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/1JQt8shxhUvv7gFkT471hOsf4brtfbl1F?usp=sharing) ←
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1-5ZMewiJz3PP1cnKfKzQonTDum0WmNj_?usp=sharing) ←
