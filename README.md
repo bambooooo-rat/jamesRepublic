@@ -7,6 +7,8 @@
 
 最後，各資料夾會不定期更新，來源通常是手機拍的照片，或者我另外做的圖。
 
+|20250123更新：學校在 20231030 發公告即刻起將限制上限為200GB，因此當日之後的更新將無法同步至雲端，若有特別需求請告知我。
+
 → [照片-按照人臉分類](https://drive.google.com/drive/folders/1JQt8shxhUvv7gFkT471hOsf4brtfbl1F?usp=sharing) ←
 
 → [照片-按照日期分類](https://drive.google.com/drive/folders/1-5ZMewiJz3PP1cnKfKzQonTDum0WmNj_?usp=sharing) ←
